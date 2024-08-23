@@ -1,1 +1,22 @@
 # Diabetes_Prediction
+Data Understanding
+
+Diabetes Dataset This dataset contains all the patients who are females of atleast 21 years of age of Indian heritage. I have taken this dataset from Kaggle. The features in this dataset are:
+
+Pregnencies: It tells the number of times the female is pregnent.
+
+Glucose: It gives the amount of Plasma glucose concentration a 2 hours in an oral glucose tolerance test.
+
+Blood Pressure: It is Diastolic blood pressure measured in (mm Hg = millimeters of mercury).
+
+Skin Thickness: It tells the amount of fat measured in triceps skin fold thickness in (mm).
+
+Insulin: It is 2-hour serum insulin measured in (mu U/ml). Insulin is a hormone that lowers the level of glucose in the blood.
+
+BMI: It is Body Mass Index. It is the ratio of weight in kg(kilograme) to the square of height in m(meter).
+
+Diabetes Pedigree function: It is a function that scores the probability of diabetes based on family history, with a realistic range from 0.08 to 2.42.
+
+Age: Age of the female which starts from 21.
+
+Outcome: It consists of binary variable 0 and 1. 0 represents the healthy people and 1 represents those with diabetes.
