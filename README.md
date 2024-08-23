@@ -1,5 +1,4 @@
 # Diabetes_Prediction
-Data Understanding
 
 Diabetes Dataset This dataset contains all the patients who are females of atleast 21 years of age of Indian heritage. I have taken this dataset from Kaggle. The features in this dataset are:
 
@@ -21,3 +20,4 @@ Diabetes Dataset This dataset contains all the patients who are females of atlea
 
 9) Outcome: It consists of binary variable 0 and 1. 0 represents the healthy people and 1 represents those with diabetes.
 
+I have done data collection and pre-processing ---> Exploratory Data Analysis ---> Detected Outliers ---> Built Support Vector Regression model ---> Evaluated the model based on accuracy score on the train and test data ---> Made a Predictive system that can suggest whether a female has diabetes or not.
